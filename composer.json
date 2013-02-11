@@ -1,0 +1,12 @@
+{
+    "name": "webmoney/wmxi",
+    "version": "1.0.0",
+    "source": {
+        "type": "git",
+        "url": "https://github.com/4you4ever/webmoney",
+        "reference": "master"
+    },
+    "autoload": {
+        "classmap": ["src/webmoney/WMXI.php"]
+    }
+}

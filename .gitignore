@@ -1,3 +1,5 @@
 keys/
 tests/authn.php
 phpunit.xml
+/nbproject/private/
+/nbproject
